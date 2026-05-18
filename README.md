@@ -4,6 +4,7 @@ This project focuses on analyzing customer credit card spending and repayment be
 The project was developed using Jupyter Notebook and includes data cleaning, preprocessing, exploratory data analysis, and business insight generation.
 ________________________________________
 ****Objectives****
+
 •	Analyze customer spending behavior 
 •	Identify repayment trends 
 •	Perform customer segmentation 
@@ -12,6 +13,7 @@ ________________________________________
 •	Improve understanding of financial datasets using Python 
 ________________________________________
 ****Technologies Used****
+
 •	Python 
 •	Jupyter Notebook 
 •	pandas 
@@ -19,6 +21,7 @@ ________________________________________
 •	Matplotlib 
 ________________________________________
 ****Key Features****
+
 •	Data cleaning and preprocessing 
 •	Missing value handling 
 •	Customer-wise transaction analysis 
@@ -29,7 +32,9 @@ ________________________________________
 •	Business insight generation 
 ________________________________________
 ****Dataset Information****
+
 **The dataset contains:**
+
 •	Customer information 
 •	Credit card product details 
 •	Spending transactions 
@@ -37,6 +42,7 @@ ________________________________________
 •	Monthly and yearly transaction data 
 ________________________________________
 ****Project Workflow****
+
 1. Data Collection
 Imported customer, spending, and repayment datasets.
 2. Data Cleaning
@@ -45,24 +51,28 @@ Imported customer, spending, and repayment datasets.
 •	Corrected inconsistent data types 
 3. Exploratory Data Analysis
 **Performed:**
+
 •	Customer spending analysis 
 •	Product-wise analysis 
 •	Repayment analysis 
 •	Trend analysis 
-4. Business Insights
+5. Business Insights
 **Generated insights related to:**
+
 •	High-value customers 
 •	Spending behavior 
 •	Repayment patterns 
 •	Product performance 
 ________________________________________
 ****Sample Insights****
+
 •	Identified top spending customers 
 •	Compared repayment behavior across products 
 •	Analyzed monthly customer spending trends 
 •	Evaluated customer transaction patterns 
 ________________________________________
 ****Skills Demonstrated****
+
 •	Data Cleaning 
 •	Data Analysis 
 •	Exploratory Data Analysis (EDA) 

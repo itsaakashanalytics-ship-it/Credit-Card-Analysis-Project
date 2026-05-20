@@ -98,38 +98,6 @@ Generated insights related to:
 
 ---
 
-## How to Run the Project
 
-### Install Required Libraries
-```bash
-pip install pandas numpy matplotlib
-```
-
-### Open Jupyter Notebook
-```bash
-jupyter notebook
-```
-
-### Run the Notebook
-Open:
-```bash
-CreditCard_Analysis.ipynb
-```
-
----
-
-## Future Improvements
-- Interactive dashboard creation using Power BI
-- Advanced visualizations
-- Predictive analysis using Machine Learning
-- Customer risk classification
-
----
-
-## Author
-### Aakash
-Aspiring Data Analyst
-
-GitHub: https://github.com/this_is_aakash
 
 LinkedIn: https://www.linkedin.com/
